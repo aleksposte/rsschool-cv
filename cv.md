@@ -3,15 +3,16 @@
 +7-952-907-9572
 **Email:** 
 aleks.poste@gmail.com
+-------------
 
 **Inspired JavaScript web developer with over 2 years of experience. Ready to learn and improve web components, DDD / TDD testing. Microservices and WebSocket Specialist.**
 
-#### Skylls: (Underline)
+#### Skylls:
 -------------
 **Front End:** JavaScript/ES6, HTML/ HTML5, CSS (SASS, LESS etc).
 **Databases:** MySQL- SQLLite
 
-#### Work history: (Underline)
+#### Work history:
 -------------
 ###### LLC MGS, Web Developer
 ###### 01.2020 – 06.2021
